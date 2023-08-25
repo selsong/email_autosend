@@ -1,5 +1,6 @@
 # email_autosend
 NAMI ACS Connections email autosend with Google Spreadsheets
+Description: Automated email reply system that adds custom zoom link based on which groups the respondent has selected. It keeps track of which form respondents have already received an email through Google Spreadsheets. Developed in Summer 2023 for NAMI connections support groups.
 
 Step 1: Copy your google account generated passcode
 Youtube Video: https://www.youtube.com/watch?v=g_j6ILT-X0k
